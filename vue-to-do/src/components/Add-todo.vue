@@ -74,8 +74,7 @@ export default {
 .toDo__title {
   padding-bottom: 1em;
 }
-.toDo__addNew {
-}
+
 .toDo__display {
   text-decoration: none;
 }
